@@ -1,0 +1,41 @@
+agricultural_year,crop,area_lakh_hectares,production_value,production_unit,yield_kg_per_hectare,estimate_status
+2021-22,Rice,462.79,1294.71,lakh tonnes,2798,As reported in supplied source
+2022-23,Rice,478.32,1357.55,lakh tonnes,2838,As reported in supplied source
+2023-24,Rice,478.28,1378.25,lakh tonnes,2882,As reported in supplied source
+2024-25,Rice,512.67,1501.84,lakh tonnes,2929,As reported in supplied source
+2025-26,Rice,528.32,1540.24,lakh tonnes,2915,Third Advance Estimate
+2021-22,Wheat,304.59,1077.42,lakh tonnes,3537,As reported in supplied source
+2022-23,Wheat,314.01,1105.54,lakh tonnes,3521,As reported in supplied source
+2023-24,Wheat,318.33,1132.92,lakh tonnes,3559,As reported in supplied source
+2024-25,Wheat,328.04,1179.45,lakh tonnes,3595,As reported in supplied source
+2025-26,Wheat,336.0,1206.57,lakh tonnes,3591,Third Advance Estimate
+2021-22,Maize,99.58,337.3,lakh tonnes,3387,As reported in supplied source
+2022-23,Maize,107.44,380.85,lakh tonnes,3545,As reported in supplied source
+2023-24,Maize,112.41,376.65,lakh tonnes,3351,As reported in supplied source
+2024-25,Maize,120.91,434.09,lakh tonnes,3590,As reported in supplied source
+2025-26,Maize,144.08,550.93,lakh tonnes,3824,Third Advance Estimate
+2021-22,Total Food Grains,1301.69,3156.16,lakh tonnes,2425,As reported in supplied source
+2022-23,Total Food Grains,1322.04,3296.87,lakh tonnes,2494,As reported in supplied source
+2023-24,Total Food Grains,1321.04,3322.98,lakh tonnes,2515,As reported in supplied source
+2024-25,Total Food Grains,1375.46,3577.32,lakh tonnes,2601,As reported in supplied source
+2025-26,Total Food Grains,1423.25,3765.63,lakh tonnes,2646,Third Advance Estimate
+2021-22,Total Oilseeds,289.45,379.63,lakh tonnes,1312,As reported in supplied source
+2022-23,Total Oilseeds,302.39,413.55,lakh tonnes,1368,As reported in supplied source
+2023-24,Total Oilseeds,301.92,396.69,lakh tonnes,1314,As reported in supplied source
+2024-25,Total Oilseeds,304.4,429.89,lakh tonnes,1412,As reported in supplied source
+2025-26,Total Oilseeds,308.86,430.59,lakh tonnes,1394,Third Advance Estimate
+2021-22,Soybean,121.47,129.87,lakh tonnes,1069,As reported in supplied source
+2022-23,Soybean,130.84,149.85,lakh tonnes,1145,As reported in supplied source
+2023-24,Soybean,132.55,130.62,lakh tonnes,985,As reported in supplied source
+2024-25,Soybean,129.52,152.68,lakh tonnes,1179,As reported in supplied source
+2025-26,Soybean,123.86,125.96,lakh tonnes,1017,Third Advance Estimate
+2021-22,Sugarcane,51.75,4394.25,lakh tonnes,84906,As reported in supplied source
+2022-23,Sugarcane,58.85,4905.33,lakh tonnes,83349,As reported in supplied source
+2023-24,Sugarcane,57.4,4531.58,lakh tonnes,78953,As reported in supplied source
+2024-25,Sugarcane,54.5,4546.11,lakh tonnes,83416,As reported in supplied source
+2025-26,Sugarcane,58.84,5000.63,lakh tonnes,84987,Third Advance Estimate
+2021-22,Cotton,123.72,311.18,lakh bales (1 bale = 170 kg),428,As reported in supplied source
+2022-23,Cotton,129.27,336.6,lakh bales (1 bale = 170 kg),443,As reported in supplied source
+2023-24,Cotton,126.88,325.22,lakh bales (1 bale = 170 kg),436,As reported in supplied source
+2024-25,Cotton,114.84,297.24,lakh bales (1 bale = 170 kg),440,As reported in supplied source
+2025-26,Cotton,115.25,290.24,lakh bales (1 bale = 170 kg),428,Third Advance Estimate
